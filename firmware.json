@@ -1,7 +1,7 @@
 {
     "Configurations": [
       {
-        "Version": "1.0.9",
+        "Version": "1.0.10",
         "URL": "https://raw.githubusercontent.com/woyzeck/Firmware/main/firmware.bin"
       }
     ]
